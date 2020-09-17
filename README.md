@@ -5,7 +5,7 @@
 🎓 Computer Science and Mathematics student at the University of Massachusetts Amherst.\
 📱 Experienced in full stack web development and app development.\
 🌐 Visit [my website](https://bryce-parkman.vercel.app/) for more details on my current and previous projects.\
-💼 I am currently seeking software internships for Summer 2020, my [résumé](https://bryce-parkman.vercel.app/Bryce-Parkman-Resume.pdf) is available here.
+💼 I am currently seeking software internships for Summer 2021, my [résumé](https://bryce-parkman.vercel.app/Bryce-Parkman-Resume.pdf) is available here.
 
 ### Technologies
 
