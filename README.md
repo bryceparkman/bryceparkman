@@ -30,6 +30,6 @@
 ![Discord](https://img.shields.io/badge/-Discord-738ADB?style=flat-square&logo=discord&logoColor=white)
 
 ### Contact
-Email: ![bparkman@umass.edu](mailto:bparkman@umass.edu)\
-LinkedIn: ![Bryce Parkman on LinkedIn](https://www.linkedin.com/in/bryce-parkman)\
+Email: [bparkman@umass.edu](mailto:bparkman@umass.edu)\
+LinkedIn: [Bryce Parkman on LinkedIn](https://www.linkedin.com/in/bryce-parkman)\
 Website: [click here!](https://bryce-parkman.vercel.app/)
