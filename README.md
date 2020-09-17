@@ -10,11 +10,11 @@ I am a Computer Science and Mathematics major at the University of Massachusetts
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-45cf42?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-45cf42?style=flat-square&logo=python&logoColor=white)\
 ![HTML](https://img.shields.io/badge/-HTML-f06529?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-2965f1?style=flat-square&logo=CSS3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-602C50?style=flat-square&logo=bootstrap&logoColor=white)\
-![React](https://img.shields.io/badge/-React-56c6e3?style=flat-square&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-602C50?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/-React-56c6e3?style=flat-square&logo=react&logoColor=white)\
 ![React Native](https://img.shields.io/badge/-React%20Native-56c6e3?style=flat-square&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/-Expo-333?style=flat-square&logo=expo&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
