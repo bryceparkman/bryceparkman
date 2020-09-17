@@ -10,7 +10,9 @@ I am a Computer Science and Mathematics major at the University of Massachusetts
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-45cf42?style=flat-square&logo=python&logoColor=white)\
+![Python](https://img.shields.io/badge/-Python-45cf42?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-0078d7?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-0078d7?style=flat-square&logo=C&logoColor=white)\
 ![HTML](https://img.shields.io/badge/-HTML-f06529?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-2965f1?style=flat-square&logo=CSS3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-602C50?style=flat-square&logo=bootstrap&logoColor=white)
@@ -27,6 +29,7 @@ I am a Computer Science and Mathematics major at the University of Massachusetts
 ![Autodesk Inventor](https://img.shields.io/badge/-Autodesk-007dc5?style=flat-square&logo=autodesk&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-333?style=flat-square&logo=slack)
 ![Discord](https://img.shields.io/badge/-Discord-738ADB?style=flat-square&logo=discord&logoColor=white)
+
 
 ### Contact
 Email: [bparkman@umass.edu](mailto:bparkman@umass.edu)\
