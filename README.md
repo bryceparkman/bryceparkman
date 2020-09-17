@@ -3,7 +3,7 @@
 ### About Me
 I am a Computer Science and Mathematics major at the University of Massachusetts Amherst. Tech lead at [BUILD UMass](https://buildumass.com/), a pro-bono tech consulting organization run by UMass Amherst students. I am interested in all things robotics and the intersection of computer science and math. Experienced in full stack web development, app development, and mathematical visualization.
 
-📧 Email me at [bparkman@umass.edu](mailto:bparkman@umass.edu) for any questions or website commisions.
+📧 Email me at [bparkman@umass.edu](mailto:bparkman@umass.edu) for any questions or website commisions.\
 🌐 Visit [my website](https://bryce-parkman.vercel.app/) for more details on my current and previous projects.\
 💼 I am currently seeking software internships for Summer 2021, check out my [résumé](https://bryce-parkman.vercel.app/Bryce-Parkman-Resume.pdf) and my [LinkedIn](https://www.linkedin.com/in/bryce-parkman).
 
