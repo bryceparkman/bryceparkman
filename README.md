@@ -1,12 +1,15 @@
 ## 👋 Hi there, I'm Bryce. Welcome to my GitHub page!
 
 ### About Me
-I am a Computer Science and Mathematics major at the University of Massachusetts Amherst. I am interested in all things robotics and the intersection of computer science and math. Experienced in full stack web development, app development, and mathematical visualization.
+I am a Computer Science and Mathematics major at the University of Massachusetts Amherst. Tech lead at [BUILD UMass](https://buildumass.com/), a pro-bono tech consulting organization run by UMass Amherst students. I am interested in all things robotics and the intersection of computer science and math. Experienced in full stack web development, app development, and mathematical visualization.
 
+📧 Email me at [bparkman@umass.edu](mailto:bparkman@umass.edu) for any questions or website commisions.
 🌐 Visit [my website](https://bryce-parkman.vercel.app/) for more details on my current and previous projects.\
-💼 I am currently seeking software internships for Summer 2021, my [résumé](https://bryce-parkman.vercel.app/Bryce-Parkman-Resume.pdf) is available here.
+💼 I am currently seeking software internships for Summer 2021, check out my [résumé](https://bryce-parkman.vercel.app/Bryce-Parkman-Resume.pdf) and my [LinkedIn](https://www.linkedin.com/in/bryce-parkman).
 
 ### Technologies and Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryceparkman&layout=compact)](https://github.com/bryceparkman/github-readme-stats)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&logoColor=white)
@@ -29,9 +32,3 @@ I am a Computer Science and Mathematics major at the University of Massachusetts
 ![Autodesk Inventor](https://img.shields.io/badge/-Autodesk-007dc5?style=flat-square&logo=autodesk&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-333?style=flat-square&logo=slack)
 ![Discord](https://img.shields.io/badge/-Discord-738ADB?style=flat-square&logo=discord&logoColor=white)
-
-
-### Contact
-Email: [bparkman@umass.edu](mailto:bparkman@umass.edu)\
-LinkedIn: [Bryce Parkman on LinkedIn](https://www.linkedin.com/in/bryce-parkman)\
-Website: [click here!](https://bryce-parkman.vercel.app/)
