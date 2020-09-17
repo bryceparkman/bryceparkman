@@ -6,7 +6,7 @@ I am a Computer Science and Mathematics major at the University of Massachusetts
 🌐 Visit [my website](https://bryce-parkman.vercel.app/) for more details on my current and previous projects.\
 💼 I am currently seeking software internships for Summer 2021, my [résumé](https://bryce-parkman.vercel.app/Bryce-Parkman-Resume.pdf) is available here.
 
-### Technologies
+### Technologies and Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&logoColor=white)
@@ -22,8 +22,8 @@ I am a Computer Science and Mathematics major at the University of Massachusetts
 ![Git](https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-211F1F?style=flat-square&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-F57C00?style=flat-square&logo=firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)\
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Autodesk Inventor](https://img.shields.io/badge/-Autodesk-007dc5?style=flat-square&logo=autodesk&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-333?style=flat-square&logo=slack)
 ![Discord](https://img.shields.io/badge/-Discord-738ADB?style=flat-square&logo=discord&logoColor=white)
