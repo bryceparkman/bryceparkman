@@ -2,6 +2,7 @@
 
 ### About Me
 I am a Computer Science and Mathematics major at the University of Massachusetts Amherst. I am interested in all things robotics and the intersection of computer science and math. Experienced in full stack web development, app development, and mathematical visualization. \
+
 🌐 Visit [my website](https://bryce-parkman.vercel.app/) for more details on my current and previous projects.\
 💼 I am currently seeking software internships for Summer 2021, my [résumé](https://bryce-parkman.vercel.app/Bryce-Parkman-Resume.pdf) is available here.
 
