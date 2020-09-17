@@ -9,7 +9,7 @@ I am a Computer Science and Mathematics major at the University of Massachusetts
 
 ### Technologies and Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryceparkman&layout=compact)](https://github.com/bryceparkman/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryceparkman&layout=compact)](https://github.com/bryceparkman/github-readme-stats)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&logoColor=white)
