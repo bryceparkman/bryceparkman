@@ -9,8 +9,6 @@ I am a Computer Science and Mathematics major at the University of Massachusetts
 
 ### Technologies and Skills
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryceparkman&layout=compact)](https://github.com/bryceparkman/github-readme-stats)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-45cf42?style=flat-square&logo=python&logoColor=white)
@@ -32,3 +30,5 @@ I am a Computer Science and Mathematics major at the University of Massachusetts
 ![Autodesk Inventor](https://img.shields.io/badge/-Autodesk-007dc5?style=flat-square&logo=autodesk&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-333?style=flat-square&logo=slack)
 ![Discord](https://img.shields.io/badge/-Discord-738ADB?style=flat-square&logo=discord&logoColor=white)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryceparkman&layout=compact)](https://github.com/bryceparkman/github-readme-stats)
